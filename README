@@ -1,8 +1,9 @@
 アプリケーションテンプレート
 
-- Rails : 3.0.3
+- Rails : 3.0.6
 - OmniauthによるOpenID / OAuth対応。
 - KaminariによるPaging。
 - ファイルアップロード（Paperclip）
 - Facebook App対応（全てのアクションにPOSTでアクセスされる）
+- rails_adminによるデータ管理画面
 

@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.3'
+#gem 'rails', '3.0.3'
+gem 'rails', '3.0.6'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -13,6 +14,7 @@ gem 'unicorn'
 gem 'kaminari'
 gem 'jquery-rails'
 gem 'paperclip'
+gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
 
 #gem 'pg'
 
