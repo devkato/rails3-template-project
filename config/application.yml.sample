@@ -1,0 +1,19 @@
+
+development:
+  provider:
+    twitter:
+      app_id: ''
+      secret: ''
+    facebook:
+      app_id: ''
+      secret: ''
+
+production:
+  provider:
+    twitter:
+      app_id: ''
+      secret: ''
+    facebook:
+      app_id: ''
+      secret: ''
+
